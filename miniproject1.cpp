@@ -45,7 +45,7 @@ int main()
         cout << "Area of Trepazium is:" << 0.5 * (side1 + side2) * height2 << "sq.unit" << endl;
         break;
     default: // default case
-    cout<<"Invalid Choice";
+    cout<<"Entered Statment is Invalid!"<<endl;
     }
 
     return 0;
