@@ -1,3 +1,7 @@
-# cpp-project 
-This is a Mathematical based Project which Eloborates about the Areas of the different figures <br> According to our choice which is displayed  on
-the page Entered the asking values and the Area of the Different Figures.
+# C++ projects
+These are all the C++ Minor Projects that I made using Multiple Logics in c++ <br>
+The logics containing of ("Switch cases statements","Conditional Statements) / Loops,Nested Loops<br>
+Array, Strings and much more. The Main theme of Creating these all the projects is for that I can Apply <br>
+All of the learnings of c++ programming here.
+
+
